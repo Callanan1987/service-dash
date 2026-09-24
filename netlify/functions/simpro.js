@@ -1,7 +1,7 @@
 // SimPro -> tracker. Netlify env vars:
 //   SIMPRO_BUILD  firstairuk.simprosuite.com
 //   SIMPRO_COMPANY 0
-//   SIMPRO_TOKEN  elll7fa38d6cf6cf9a59222ddfc1foo9447516d7
+//   SIMPRO_TOKEN  elll7fa38d6cf6cf9a59222ddfc1f009447516d7
 //   JOB_TYPE (default "Service")   APP_KEY (optional access key the tracker asks for once)
 //   SIMPRO_WEBHOOK (optional, e.g. a Zapier catch hook that receives jobs completed in the tracker)
 //   SIMPRO_CONTRACTS_PATH (optional, SimPro endpoint for renewals; fields mapped in mapContract below)
